@@ -1,5 +1,5 @@
 # Restaurant-DB
-Created a Restaurant based Database Management System using MySQL Team Size: 3
+Created a Restaurant based Relational Database Management System using MySQL Team Size: 3
 
 
 Database Video of it's columns and averages.
